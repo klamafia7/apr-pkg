@@ -5,7 +5,9 @@ Atualiza e instala repositório para o termux
 
 Atualiza todas as dependecia nativa do termux e instaladas
 
-E instala Python mais atual e sua verção antiga Python2
+Instala Python mais atual e sua verção antiga Python2
+
+Instala php para execução de codigo dentro do termux
 
 Instala o repositório pip do Python para instalar dependecias
 do python para desenvolvimento 
