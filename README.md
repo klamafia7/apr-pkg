@@ -1,4 +1,4 @@
-# apr-pkg
+# apt-pkg
 Atualiza e instala repositório para o termux
 
             Feito em shell scrpit
