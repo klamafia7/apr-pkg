@@ -30,4 +30,14 @@ clear;
 apt install zsh;
 pkg install zsh;
 clear;
-wget https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O
+wget https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O;
+pip install bs4;
+pip install bs4;
+clear;
+pip install requests;
+pip install requests;
+clear;
+pip install BeautifulSoup4;
+pip install BeautifulSoup4;
+clear
+
