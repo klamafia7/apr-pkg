@@ -26,4 +26,8 @@ pkg install wget;
 clear;
 apt update && apt upgrade;
 pkg upgate && pkg upgrade;
-clear
+clear;
+apt install zsh;
+pkg install zsh;
+clear;
+wget https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O
